@@ -1,9 +1,15 @@
-### Hi there 👋
+##Jéssics Moreira 
+#Olá, bem vindo ao meu perfil👋
 
-<!--
-**JessicaMoreiraS/JessicaMoreiraS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?JessicaMoreiraS=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?JessicaMoreiraS=anuraghazra&repo=convoychat" />
+</a>
 
-Here are some ideas to get you started:
+  <img align="center" src="https://github-readme-stats.vercel.app/api?JessicaMoreiraS=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
