@@ -2,15 +2,15 @@
 #Olá, bem vindo ao meu perfil👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=convoychat" />
 </a>
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
   <a href="https://github.com/anuraghazra/convoychat">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=react"/>
   </a>
 
 - 🔭 I’m currently working on ...
