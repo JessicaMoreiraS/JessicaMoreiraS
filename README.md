@@ -8,6 +8,8 @@
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical" />
 </a>
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<i class="devicon-css3-plain-wordmark"></i>
   
 
 - 🔭 I’m currently working on ...
