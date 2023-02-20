@@ -5,7 +5,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=convoychat" />
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical" />
 </a>
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
