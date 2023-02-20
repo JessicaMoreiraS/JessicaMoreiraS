@@ -1,10 +1,10 @@
 ##Jéssics Moreira 
 #Olá, bem vindo ao meu perfil👋
 
-<a href="https://github.com/JessicaMoreiraS/github-readme-stats">
+<a href="https://github.com/JessicaMoreiraS">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
 </a>
-<a href="https://github.com/JessicaMoreiraS/convoychat">
+<a href="https://github.com/JessicaMoreiraS">
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical" />
 </a>
 
