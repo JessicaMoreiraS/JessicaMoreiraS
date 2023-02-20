@@ -8,7 +8,9 @@
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical" />
 </a>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="100px" />
+          
           
   
 
