@@ -9,6 +9,7 @@
 <div align="center">
   <a href="https://github.com/JessicaMoreiraS">
     <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMoreiraS&hide=css,html&theme=tokyonight" />
+    <!--https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical-->
   </a>
 </div>
 </br>
