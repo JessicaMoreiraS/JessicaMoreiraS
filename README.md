@@ -8,7 +8,7 @@
   <img align="center" src= "https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical" />
 </a>
 
-<img src="https://www.canva.com/design/DAFbUrWZQp0/x5w5pvI2eZ1OUtFLDtYSeQ/watchutm_content=DAFbUrWZQp0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+<img src="https://drive.google.com/file/d/1SErUdHpbjY5tIsfxxl329o5Do3bqsG7i/view?usp=drivesdk">
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
