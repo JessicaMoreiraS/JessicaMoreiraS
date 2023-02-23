@@ -29,5 +29,5 @@
           
 - 🌱 Estudando: Android, Back-end e Banco de Dados
 <div align="right">
-  <img src="https://user-images.githubusercontent.com/100448388/220744438-9e5dbc81-1eeb-4e07-bfca-74dd4adbbf4f.gif" width="200px" >
+  <img src="https://user-images.githubusercontent.com/100448388/220802988-c70190d0-3cda-43aa-a566-425e5cabcfe4.gif" width="200px" >
 </div>
