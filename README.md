@@ -20,12 +20,13 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=cc3777"/> 
+  <img src="https://img.shields.io/badge/Java-cc3777?style=for-the-badge&logo=openjdk&logoColor=aafdf6"/> 
+  <img src="https://img.shields.io/badge/JavaScript-aafdf6?style=for-the-badge&logo=javascript&logoColor=cc3777"/>
+  <img src="https://img.shields.io/badge/HTML5-cc3777?style=for-the-badge&logo=html5&logoColor=aafdf6"/>
+  <img src="https://img.shields.io/badge/CSS3-aafdf6?style=for-the-badge&logo=css3&logoColor=cc3777"/>
+  <img src="https://img.shields.io/badge/Eclipse-cc3777?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-aafdf6?style=for-the-badge&logo=visual%20studio%20code&logoColor=cc3777"/>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
 </p>
           
