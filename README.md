@@ -20,13 +20,13 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=cc3777"/> 
-  <img src="https://img.shields.io/badge/Java-cc3777?style=for-the-badge&logo=openjdk&logoColor=aafdf6"/> 
-  <img src="https://img.shields.io/badge/JavaScript-aafdf6?style=for-the-badge&logo=javascript&logoColor=cc3777"/>
-  <img src="https://img.shields.io/badge/HTML5-cc3777?style=for-the-badge&logo=html5&logoColor=aafdf6"/>
-  <img src="https://img.shields.io/badge/CSS3-aafdf6?style=for-the-badge&logo=css3&logoColor=cc3777"/>
-  <img src="https://img.shields.io/badge/Eclipse-cc3777?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-aafdf6?style=for-the-badge&logo=visual%20studio%20code&logoColor=cc3777"/>
+  <kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>
+  <kbd> <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=aafdf6"/> </kbd> 
+  <kbd> <img src="https://img.shields.io/badge/JavaScript-aafdf6?style=for-the-badge&logo=javascript&logoColor=141321"/> </kbd>
+  <kbd> <img src="https://img.shields.io/badge/HTML5-141321?style=for-the-badge&logo=html5&logoColor=aafdf6"/> </kbd>
+  <kbd> <img src="https://img.shields.io/badge/CSS3-aafdf6?style=for-the-badge&logo=css3&logoColor=141321"/> </kbd>
+  <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/>
+  <kbd> <img src="https://img.shields.io/badge/Visual_Studio_Code-aafdf6?style=for-the-badge&logo=visual%20studio%20code&logoColor=141321"/> </kbd>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
 </p>
           
