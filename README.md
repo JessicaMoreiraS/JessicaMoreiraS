@@ -1,6 +1,6 @@
 <h1>Jéssica Moreira</h1> 
 <h3>Olá, seja bem vindo👋</h3>
-<p>Sou estudante no ensino Técnico em Desenvolvimento de Sistemas do SENAI.</p>
+<p>Sou estudante no ensino Técnico em Desenvolvimento de Sistemas.</p>
 <hr>
 <h3>⭐Stars:</h3>
 <div align="center">
