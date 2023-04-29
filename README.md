@@ -21,20 +21,27 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
+  <kbd> <img src="https://skillicons.dev/icons?i=java,nodejs,js,jquery,html,css,dart,flutter"/> </kbd>
+<!--
   <kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>
   <kbd> <img src="https://img.shields.io/badge/Java-141321?style=for-the-badge&logo=openjdk&logoColor=aafdf6"/> </kbd> 
   <kbd> <img src="https://img.shields.io/badge/JavaScript-aafdf6?style=for-the-badge&logo=javascript&logoColor=141321"/> </kbd>
   <kbd> <img src="https://img.shields.io/badge/node.js-141321?style=for-the-badge&logo=node.js&logoColor=aafdf6"/> </kbd>
   <kbd> <img src="https://img.shields.io/badge/HTML5-aafdf6?style=for-the-badge&logo=html5&logoColor=141321"/> </kbd>
-  <kbd> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=aafdf6"/> </kbd>
+  <kbd> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=aafdf6"/> </kbd>-->
 </p>
 <p align="center">
+  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,figma,github"/> </kbd>
+ <!--
   <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/> </kbd>
   <kbd> <img src="https://img.shields.io/badge/Visual_Studio_Code-aafdf6?style=for-the-badge&logo=visual%20studio%20code&logoColor=141321"/> </kbd>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
 </p>
           
-- 📖 Estudando: Android, Back-end e Banco de Dados
+- 📖 Estudando: Android <img src="https://user-images.githubusercontent.com/100448388/235322846-9c95e240-a8ff-43a5-8277-6778390c9988.png" width="20">, Back-end e Banco de Dados
+
 <div align="right">
   <img src="https://user-images.githubusercontent.com/100448388/220802988-c70190d0-3cda-43aa-a566-425e5cabcfe4.gif" width="200px" >
 </div>
+<h6>Imagens:</h6>
+<h6><a href="https://www.flaticon.com/free-icons/android" title="android icons">Android icons created by Pixel perfect - Flaticon</a></h6>
