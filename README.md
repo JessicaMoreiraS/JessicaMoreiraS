@@ -38,10 +38,25 @@
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
 </p>
           
-- 📖 Estudando: Android <img src="https://user-images.githubusercontent.com/100448388/235322846-9c95e240-a8ff-43a5-8277-6778390c9988.png" width="20">, Back-end e Banco de Dados
-
+- 📖 Estudando: 
+<kdb>
+<div>
+  <div width="30%"> 
+    <div align="center"> Mobile </div> 
+    <div align="center"> <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%"> </div>
+  </div> 
+  <div width="30%"> 
+    <div align="center"> Back-end </div>
+    <div align="center"><img src="https://user-images.githubusercontent.com/100448388/235329196-41a246d1-720b-46b0-a2e7-f8edf31225df.png" width="10%"> </div>
+  </div>
+  <div width="30%"> 
+    <div align="center"> Banco de Dados </div>
+    <div align="center"><img src="https://user-images.githubusercontent.com/100448388/235328796-23bd5844-d032-4697-9675-c10640110f57.png" width="10%"> </div>
+  </div>
+</div>
+</kdb>
 <div align="right">
   <img src="https://user-images.githubusercontent.com/100448388/220802988-c70190d0-3cda-43aa-a566-425e5cabcfe4.gif" width="200px" >
 </div>
 <h6>Imagens:</h6>
-<h6><a href="https://www.flaticon.com/free-icons/android" title="android icons">Android icons created by Pixel perfect - Flaticon</a></h6>
+<h6><a href="https://www.flaticon.com/free-icons/app" title="app icons">App icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/monitor" title="monitor icons">Monitor icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a></h6>
