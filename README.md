@@ -31,7 +31,7 @@
   <kbd> <img src="https://img.shields.io/badge/CSS3-141321?style=for-the-badge&logo=css3&logoColor=aafdf6"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,figma,github"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,mysql,figma,github"/> </kbd>
  <!--
   <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/> </kbd>
   <kbd> <img src="https://img.shields.io/badge/Visual_Studio_Code-aafdf6?style=for-the-badge&logo=visual%20studio%20code&logoColor=141321"/> </kbd>
