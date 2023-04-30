@@ -40,11 +40,11 @@
 
 <h3>📖 Estudando: </h3>          
 <div align="center">
-    <h3> Mobile......Banco de Dados......Back-end</h2> 
+    <h3> Mobile........Banco de Dados........Back-end</h2> 
 </div>
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%">      
-  <img src="https://user-images.githubusercontent.com/100448388/235328796-23bd5844-d032-4697-9675-c10640110f57.png" width="10%">      
+  <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%">........... 
+  <img src="https://user-images.githubusercontent.com/100448388/235328796-23bd5844-d032-4697-9675-c10640110f57.png" width="10%">...........
   <img src="https://user-images.githubusercontent.com/100448388/235329196-41a246d1-720b-46b0-a2e7-f8edf31225df.png" width="10%">
 </div>
 
