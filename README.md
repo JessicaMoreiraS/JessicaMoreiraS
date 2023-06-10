@@ -21,7 +21,7 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=java,nodejs,js,jquery,html,css,dart,flutter"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=java,php,nodejs,js,jquery,html,css,dart,flutter"/> </kbd>
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
