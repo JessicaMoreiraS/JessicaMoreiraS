@@ -47,4 +47,4 @@
 
 
 <h6>Imagens:</h6>
-<h6><a href="https://www.flaticon.com/free-icons/app" title="app icons">App icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/monitor" title="monitor icons">Monitor icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a></h6>
+<sub><a href="https://www.flaticon.com/free-icons/app" title="app icons">App icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/monitor" title="monitor icons">Monitor icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a></sub>
