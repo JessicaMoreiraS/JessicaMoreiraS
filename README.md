@@ -1,4 +1,7 @@
-<h1>Jéssica Moreira</h1> 
+<!--<h1>Jéssica Moreira</h1> -->
+<kbd>
+  <img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ac7f75eb-385a-443a-9a28-d0c6d7a318c0">
+</kbd>
 <h3>Olá, seja bem vindo👋</h3>
 <p>Sou estudante no ensino Técnico em Desenvolvimento de Sistemas no SENAI.</p>
 <hr>
