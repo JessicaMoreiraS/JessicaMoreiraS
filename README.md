@@ -44,9 +44,9 @@
   <img src="https://user-images.githubusercontent.com/100448388/235329196-41a246d1-720b-46b0-a2e7-f8edf31225df.png" width="10%">
 </div>
 
-<div align="right">
+<!--<div align="right">
   <img src="https://user-images.githubusercontent.com/100448388/220802988-c70190d0-3cda-43aa-a566-425e5cabcfe4.gif" width="200px" >
-</div>
+</div>-->
 
 
 <h6>Imagens:</h6>
