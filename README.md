@@ -48,6 +48,20 @@
   <img src="https://user-images.githubusercontent.com/100448388/220802988-c70190d0-3cda-43aa-a566-425e5cabcfe4.gif" width="200px" >
 </div>-->
 
+<br><br>
+<div align="center">
+  <a href="https://www.efset.org/cert/34vKQz">
+    <kbd>
+      <br>
+      <p>Inglês intermediário</p>
+    </kbd>
+  </a>
+  <kbd>
+      <br>
+      <p>Espanhol intermediário</p>
+  </kbd>
+</div>
+
 
 <h6>Imagens:</h6>
 <sub><a href="https://www.flaticon.com/free-icons/app" title="app icons">App icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/monitor" title="monitor icons">Monitor icons created by Freepik - Flaticon</a> | <a href="https://www.flaticon.com/free-icons/design" title="design icons">Design icons created by Freepik - Flaticon</a></sub>
