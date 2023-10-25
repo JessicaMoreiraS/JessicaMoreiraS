@@ -65,7 +65,7 @@
 <br><br>
 <div align="center">
   <a href="https://portifolio-g090uwm3.b4a.run/">
-    <img src="">
+    <img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ad3c38bd-a357-49b9-8000-950b53d709d0" width="15%">
   </a>
 </div>
 
