@@ -36,7 +36,7 @@
 
 <h3>📖 Estudando: </h3>          
 <div align="center">
-    <h3> Mobile........Banco de Dados........Back-end</h2> 
+    <h3> Mobile.........Banco de Dados.........Back-end</h3> 
 </div>
 <div align="center"> 
   <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%">........... 
@@ -65,11 +65,7 @@
 <br><br>
 <div align="center">
   <a href="https://portifolio-g090uwm3.b4a.run/">
-    <kbd>
-      <br>
-      <p font-size="110px">Portfólio📔</p>
-  </kbd>
-<!--<img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ad3c38bd-a357-49b9-8000-950b53d709d0" width="15%"> -->
+      <p>Portfólio</p>  
   </a>
 </div>
 
