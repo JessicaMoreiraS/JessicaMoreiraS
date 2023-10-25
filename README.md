@@ -8,7 +8,7 @@
   <a href="https://portifolio-g090uwm3.b4a.run/">
     <kbd>
       <br>
-      <p>➡️Portfólio⬅️</p>  
+      <p>➡️ Portfólio ⬅️</p>  
     </kbd>
   </a>
 </div>
