@@ -53,12 +53,12 @@
   <a href="https://www.efset.org/cert/34vKQz">
     <kbd>
       <br>
-      <p>Inglês intermediário</p>
+      <p>Inglês intermediário💬</p>
     </kbd>
   </a>
   <kbd>
       <br>
-      <p>Espanhol intermediário</p>
+      <p>Espanhol intermediário💬</p>
   </kbd>
 </div>
 
@@ -67,7 +67,7 @@
   <a href="https://portifolio-g090uwm3.b4a.run/">
     <kbd>
       <br>
-      <p>Portfólio</p>
+      <p font-size="110px">Portfólio📔</p>
   </kbd>
 <!--<img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ad3c38bd-a357-49b9-8000-950b53d709d0" width="15%"> -->
   </a>
