@@ -6,7 +6,7 @@
 <p>Sou estudante no ensino Técnico em Desenvolvimento de Sistemas no SENAI.</p>
 <div align="center">
   <a href="https://portifolio-g090uwm3.b4a.run/"> 
-    <img src="https://img.shields.io/badge/📔_PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc">
+    <img src="https://img.shields.io/badge/📄_PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc">
   </a>
   <a href="https://www.linkedin.com/in/jessica-s-developer/"> 
     <img src="https://img.shields.io/badge/LINKEDIN-85C8C8?style=for-the-badge&logo=LINKEDIN&logoColor=black&text_color=dcdcdc">
