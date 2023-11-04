@@ -33,11 +33,15 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=java,spring,php,nodejs,js,jquery,html,css,dart,flutter"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=java,js,php,dart,py,cs"/> </kbd>
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,mysql,gcp,figma,github"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=spring,nodejs,jquery,angular,html,css,flutter"/> </kbd>
+<!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
+</p>
+<p align="center">
+  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,arduino,postman,docker,mysql,gcp,figma,linux,github"/> </kbd>
  <!--
   <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/> </kbd>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
