@@ -3,13 +3,13 @@
   <img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ac7f75eb-385a-443a-9a28-d0c6d7a318c0">
 </kbd>
 <h3>Olá, seja bem vindo👋</h3>
-<p>Sou estudante no ensino Técnico em Desenvolvimento de Sistemas no SENAI.</p>
+<p>Sou sou Trainee_Tech do SENAI.</p>
 <div align="center">
   <a href="https://portifolio-g090uwm3.b4a.run/"> 
-    <img src="https://img.shields.io/badge/📄_PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc">
-  </a>
+    <img src="https://img.shields.io/badge/✏️PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc&color=ffffff"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jessica-s-developer/"> 
-    <img src="https://img.shields.io/badge/LINKEDIN-85C8C8?style=for-the-badge&logo=LINKEDIN&logoColor=black&text_color=dcdcdc">
+    <img src="https://img.shields.io/badge/_LINKEDIN-85C8C8?style=for-the-badge&logo=LINKEDIN&logoColor=blue&text_color=dcdcdc&color=ffffff">
   </a>
 </div>
 
@@ -67,8 +67,8 @@
     <kbd>
       <br>
       <p>Inglês intermediário💬</p>
-    </kbd>
-  </a>
+    </kbd></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <kbd>
       <br>
       <p>Espanhol intermediário💬</p>
