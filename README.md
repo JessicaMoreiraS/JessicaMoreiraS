@@ -37,7 +37,7 @@
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=spring,nodejs,jquery,angular,html,css,flutter"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=spring,nodejs,jquery,angular,html,css,flutter,dotnet"/> </kbd>
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
