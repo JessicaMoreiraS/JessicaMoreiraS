@@ -41,7 +41,7 @@
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,arduino,postman,docker,mysql,gcp,azure,figma,linux,github"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,visualstudio,arduino,postman,docker,mysql,gcp,azure,figma,linux,github"/> </kbd>
  <!--
   <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/> </kbd>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
