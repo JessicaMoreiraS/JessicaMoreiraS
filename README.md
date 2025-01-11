@@ -33,28 +33,28 @@
 <hr>
 <h3>💻Technologies & Tools:</h3>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=java,js,php,dart,py,cs"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=cs,js,java,php"/> </kbd>
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=spring,nodejs,jquery,angular,html,css,flutter,dotnet"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=dotnet,nodejs,jquery,html,css"/> </kbd>
 <!--<kbd> <img src="https://img.shields.io/badge/Dart-aafdf6?style=for-the-badge&logo=dart&logoColor=141321"/> </kbd>-->
 </p>
 <p align="center">
-  <kbd> <img src="https://skillicons.dev/icons?i=git,eclipse,vscode,visualstudio,arduino,postman,docker,mysql,gcp,azure,figma,linux,github"/> </kbd>
+  <kbd> <img src="https://skillicons.dev/icons?i=git,visualstudio,eclipse,vscode,arduino,postman,mysql,azure,gcp,,dockerfigma,github"/> </kbd>
  <!--
   <kbd> <img src="https://img.shields.io/badge/Eclipse-141321?style=for-the-badge&logo=eclipse&logoColor=aafdf6"/> </kbd>
   <!--https://dev.to/envoy_/150-badges-for-github-pnk#database-->
 </p>
 
-<h3>📖 Estudando: </h3>          
+<h3>📖 Aprendendo: </h3>          
 <div align="center">
-    <h3> Mobile.........Banco de Dados.........Back-end</h3> 
+    <h3> Back-end.........Banco de Dados.........Clound</h3> 
 </div>
 <div align="center"> 
-  <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%">........... 
+  <img src="https://user-images.githubusercontent.com/100448388/235329196-41a246d1-720b-46b0-a2e7-f8edf31225df.png" width="10%">...........
   <img src="https://user-images.githubusercontent.com/100448388/235328796-23bd5844-d032-4697-9675-c10640110f57.png" width="10%">...........
-  <img src="https://user-images.githubusercontent.com/100448388/235329196-41a246d1-720b-46b0-a2e7-f8edf31225df.png" width="10%">
+  <img src="https://user-images.githubusercontent.com/100448388/235329376-9efb7d0a-579d-4bde-94f3-9f2262f50741.png" width="10%"> 
 </div>
 
 <!--<div align="right">
