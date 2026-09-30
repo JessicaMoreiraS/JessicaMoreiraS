@@ -3,7 +3,7 @@
   <img src="https://github.com/JessicaMoreiraS/JessicaMoreiraS/assets/100448388/ac7f75eb-385a-443a-9a28-d0c6d7a318c0">
 </kbd>
 <h3>Olá, seja bem vindo👋</h3>
-<p>Sou sou Trainee_Tech do SENAI São Paulo.</p>
+<p>Sou sou Técnica em Programação no SENAI São Paulo.</p>
 <div align="center">
   <!--<a href="https://portifolio-g090uwm3.b4a.run/"> 
     <img src="https://img.shields.io/badge/✏️PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc&color=ffffff"></a>
