@@ -5,9 +5,9 @@
 <h3>Olá, seja bem vindo👋</h3>
 <p>Sou sou Trainee_Tech do SENAI São Paulo.</p>
 <div align="center">
-  <a href="https://portifolio-g090uwm3.b4a.run/"> 
+  <!--<a href="https://portifolio-g090uwm3.b4a.run/"> 
     <img src="https://img.shields.io/badge/✏️PORTFÓLIO-85C8C8?style=for-the-badge&logoColor=black&text_color=dcdcdc&color=ffffff"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
   <a href="https://www.linkedin.com/in/jessica-s-developer/"> 
     <img src="https://img.shields.io/badge/_LINKEDIN-85C8C8?style=for-the-badge&logo=LINKEDIN&logoColor=blue&text_color=dcdcdc&color=ffffff">
   </a>
