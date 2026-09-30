@@ -17,13 +17,13 @@
 <h3>⭐Stars:</h3>
 <div align="center">
   <a href="https://github.com/JessicaMoreiraS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api?username=JessicaMoreiraS&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=radical"/>
   </a>
 </div>
 </br>
 <div align="center">
   <a href="https://github.com/JessicaMoreiraS">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMoreiraS&layout=compact&langs_count=7&theme=radical"/>
+    <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JessicaMoreiraS&layout=compact&langs_count=7&theme=radical"/>
     <!--<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaMoreiraS&hide=css,html&theme=radical" />-->
     <!--https://github-readme-stats.vercel.app/api/pin/?username=JessicaMoreiraS&repo=github-readme-stats&cache_seconds=86400&theme=radical-->
   </a>
